@@ -1,0 +1,13 @@
+#nav {
+    background-color: black;
+}
+
+.nav-link {
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#footer {
+    background-color: black;
+    margin-top: 100%;
+}
